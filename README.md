@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-03-04 at 21 12 14_d91137b1](https://github.com/user-attachments/assets/aa4c9ea1-6a5b-4f3e-b7e8-2f5979f517be)# Smart Irrigation System with OLED Display & Buzzer 🌱
+# Smart Irrigation System with OLED Display & Buzzer 🌱
 
 This is a simple smart irrigation system using an ESP8266 (NodeMCU), an OLED display, a soil moisture sensor, and a buzzer. The system continuously monitors soil moisture levels and alerts the user when the soil is too dry by activating a buzzer and displaying a warning on the OLED screen.
 
