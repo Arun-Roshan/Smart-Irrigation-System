@@ -1,4 +1,4 @@
-# Smart Irrigation System with OLED Display & Buzzer 🌱
+![WhatsApp Image 2025-03-04 at 21 12 14_d91137b1](https://github.com/user-attachments/assets/aa4c9ea1-6a5b-4f3e-b7e8-2f5979f517be)# Smart Irrigation System with OLED Display & Buzzer 🌱
 
 This is a simple smart irrigation system using an ESP8266 (NodeMCU), an OLED display, a soil moisture sensor, and a buzzer. The system continuously monitors soil moisture levels and alerts the user when the soil is too dry by activating a buzzer and displaying a warning on the OLED screen.
 
@@ -37,6 +37,14 @@ You need to install the following libraries in the Arduino IDE:
 **Wiring Connections (ESP8266 - NodeMCU)**
 
 <img width="448" alt="image" src="https://github.com/user-attachments/assets/43673ca9-e01d-49f7-a5cf-8578a318285a" />
+
+**Project Images & Demonstration**
+
+![WhatsApp Image 2025-03-04 at 21 12 14_d91137b1](https://github.com/user-attachments/assets/1a9c8641-c3ba-4955-a5e0-48c252f5b2a1)
+
+![WhatsApp Image 2025-03-04 at 21 12 14_97c499d8](https://github.com/user-attachments/assets/447f14e0-477a-4264-a715-ce9eda0bcc12)
+
+![WhatsApp Image 2025-03-04 at 21 12 14_0df575bb](https://github.com/user-attachments/assets/b2b8e4c2-3388-47ca-a0eb-d3c2384c4c3a)
 
 **How It Works**
 
